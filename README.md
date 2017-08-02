@@ -1,4 +1,5 @@
-# Example from ScriptEdcurriculum 
+# Mr. Potato Head Game
+#### This repo is originally from from ScriptEdcurriculum 
 
 ![Imgur](http://i.imgur.com/Vy06FW3.gif)
 
