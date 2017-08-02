@@ -1,4 +1,4 @@
-#Unit 7 Project 1: Mr. Potato Head
+# Example from ScriptEdcurriculum 
 
 ![Imgur](http://i.imgur.com/Vy06FW3.gif)
 
@@ -16,17 +16,16 @@ Together we can create a Mr. Potato Head using GitHub!
 
 
 ##Remember: **Fork, Change, Push, Pull**
-In Cloud 9 terminal:
 
 ```
- git status
+git status
 ```
 
 You should see that potatohead.html and potato.css are modified, like this:
 
 ```
-	modified:   potatohead.html
-  modified:   potato.css
+modified:   potatohead.html
+modified:   potato.css
 ```
 
 ### Make a commit
